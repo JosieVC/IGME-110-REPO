@@ -15,3 +15,7 @@
 1. [Strawdown](https://scratch.mit.edu/projects/461502941/) is a rock-paper-scissors style fighting game with unique unlockable characters, an infinite challenge mode, and an arena mode! Still a WIP, most characters have been added and audio and animations are on the way
 2. [Stick Guy](https://scratch.mit.edu/projects/285720641/) is a little assistant you can play games with, dress up in cute hats, ask questions, play music, and so much more!
 3. [SCP but it's scratch](https://scratch.mit.edu/projects/362602221/) is a early WIP, but it has working animations, an inventory system, combat, and more!
+
+## My Favorite Image
+I have had this image as my pfp for all school-related accounts ever since middle school. I just like it, it makes me happy. 
+![image](https://mystickermania.com/cdn/stickers/gravity-falls/gf-bill-cipher-sweater-512x512.png "Bill Cipher in a sweater")  
