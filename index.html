@@ -40,8 +40,15 @@
   </div>
   <div><span id = "secret">?</span></div>
   <script>
-    btn.onClick = secret.innerHTML = "placeholder";
-      
+    function displayText(){
+      var text = document.getElementById("textField");
+  text.style.display = "block";
+}
   </script>
+  <button onclick="displayText()">Click Me!</button>
+
+<div id="textField" style="display: none;">
+  This is the text that appears when you click the button.
+</div>
 </body>
 </html>
