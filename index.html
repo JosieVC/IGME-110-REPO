@@ -36,19 +36,17 @@
     <li><a href="https://scratch.mit.edu/projects/362602221/">SCP but it's scratch</a></li>
   </ul>
   <div>
-    <button id="btn">Secret?</button>
+    <button id="myButton">Secret?</button>
+    <p id="secret"> ? </p>
   </div>
-  
-  <script>
-    function displayText(){
-      var text = document.getElementById("textField");
-  text.style.display = "block";
-}
-  </script>
-  <button btn.onclick="displayText()">?</button>
-
-<div id="textField" style="display: none;">
-  Placeholder
-</div>
 </body>
 </html>
+  
+  <script>
+    const myButton = document.getElementById('myButton');
+    myButton.addEventListener('click',function(){
+      document.getElementById('secret').innerText = "myyux://mvymjmjfivzfwyjwx.bncxnyj.htr/iwjfranjbfwhmnajx"
+    })
+  </script>
+
+
